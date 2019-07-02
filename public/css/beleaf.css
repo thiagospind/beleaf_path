@@ -1,3 +1,18 @@
-.navbar-custom {
-    background-color: #ff5500;
+body,html
+{
+    font-family: 'Poppins', sans-serif;
+    background-color: #f8f9fa;
+    height: 100%;
+}
+a:link
+{
+    text-decoration:none;
+}
+body .navbar
+{
+    background-color: #fff37d;
+}
+
+.card-custom {
+    background-color: #fff37d;
 }
